@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Day 1: Getting the Ball Rolling! 🎯"
+date:   2024-02-18 12:00:00 -0800
+categories: job-search
+---
+
+Kicked off my job search today! Here's what went down:
+
+### Career Support Setup 💪
+Had my first chat with my Randstad RiseSmart career coach - they'll be helping me navigate this whole job hunt thing. Pretty cool to have someone in my corner!
+
+### Networking Win 🤝
+Jumped on a Zoom call with an old colleague from a few years back. They've got some solid connections and offered to help get my resume in front of the right people. Love when past connections come through!
+
+### Tech Setup & Blog Launch 🚀
+* Got my hands dirty with some tech setup:
+  * Set up Ruby using rbenv
+  * Got Jekyll up and running
+  * Launched this blog (hosted on GitHub!)
+
+### Cool Tech Tools I'm Using ⚡
+* Building this blog with help from:
+  * ChatGPT for initial setup
+  * VS Code Insiders as my trusty editor
+  * Claude 3.5 Sonnet for the blog tweaks (and it's doing a pretty sweet job!)
+
+### Job Opportunities 🤔
+There's this interesting position at Citizens that caught my eye. It's a hybrid role though, so I'm weighing the pros and cons. Might need to look into getting a studio closer to the office if I go for it. Decisions, decisions...
+
