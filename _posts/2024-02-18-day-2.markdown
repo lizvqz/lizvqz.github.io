@@ -1,0 +1,44 @@
+---
+layout: post
+kiptitle:  "Day 2: Dev Environment & Networking Game 🛠️"
+date:   2024-02-18 12:00:00 -0800
+categories: job-search
+---
+
+Another day of hustling! Here's today's rundown:
+
+### Tech Setup Marathon 💻
+Got my dev environment all decked out:
+* Node.js ✓
+* pnpm ✓
+* Docker & Docker Compose ✓
+* PostgreSQL ✓
+
+All this for a personal project I'm cooking up - more on that later!
+
+### Networking Moves 🤝
+* Reached out to an old colleague - even though their company has no job postings right now. Plot twist: they want to chat anyway about potential future openings! Sometimes it's all about timing.
+* Thinking about hitting up my previous mentor (from that cool mentorship program at my last job). Their company's got some interesting openings - need to dig deeper into those.
+
+### Career Path Contemplation 🤔
+Been doing some soul-searching about which path to focus on:
+* Technical Project Manager/Scrum Master
+* Cybersecurity
+* Data Engineering
+
+The cool thing? I've genuinely enjoyed every role I've had. There's always something new to learn, and that's what gets me excited! Maybe being adaptable is my superpower? 🦸‍♀️
+
+### Work-Life Balance ⛰️
+* Hit up a local hiking trail with a friend
+* Bonus: They're spreading the word about my job search to their partner
+* Mental note: Check out their company's openings too!
+
+### Action Items 📝
+1. Speed up the resume writer assignment process - feeling antsy about getting that polished!
+2. Deep dive into my old mentor's company job listings
+3. Talk to my skip manager about that Citizens position - might as well shoot my shot, right?
+
+Today's motto: Keep pushing forward, but don't forget to breathe (and hike) 🌲
+
+
+
