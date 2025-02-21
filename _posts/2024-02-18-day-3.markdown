@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Day 3: Learning, Reflecting, and Planning 📚"
+date: 2024-02-20 12:00:00 -0800
+categories: job-search
+---
+
+Another productive day in the books! Here's what I've been up to:
+
+### Networking Updates 🤝
+* Got a response from yesterday's conversation with my old colleague - now playing the waiting game for next steps
+* Received a LinkedIn tip from a contact about companies hiring PMs
+  * Plot twist: positions are filled, but now I have a nice list of companies to watch! 👀
+
+### Learning & Growth 🧠
+* Watched "Creating an AI Agent for Financial Report Analysis" on DataCamp
+  * Planning to do the hands-on coding tomorrow - excited to get my hands dirty!
+* Completed the RiseSmart career personality quiz
+  * Results: I'm an Analyzer | Naturalist blend
+  * Fun insight: My love for the outdoors might have skewed the results a bit 🌲
+  * Note to self: Maybe should've focused more on work experiences than my save-the-planet vibes 😅
+
+### Career Development 📈
+* Finally submitted those forms for RiseSmart resume writer assignment
+* Explored the interview practice tools on RiseSmart's platform
+* Deep-dove into their job search portal - some neat features there!
+
+### Strategic Thinking 🎯
+Been wrestling with some key decisions:
+* How to balance my time between:
+  * Sending out applications
+  * Taking training courses
+  * Practicing for coding interviews
+* Need to find that sweet spot between upskilling and actual job hunting
+
+### Tomorrow's Game Plan 📝
+1. Tackle that DataCamp coding exercise
+2. Start mapping out a structured schedule for applications vs. learning
+3. Make the most of RiseSmart's interview practice tools
+
+Today's reflection: Sometimes the hardest part isn't the job search itself, but figuring out how to approach it strategically! 🎯
+
+
